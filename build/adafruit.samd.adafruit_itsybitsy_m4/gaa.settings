@@ -1,0 +1,6 @@
+# Terminal data, Sun Oct 2 06:42:38 2022
+MIPS bootloader enabled!
+/Users/gordonanderson/GAACE/Products/MIPS/MIPSapp/MIPS.app/Contents/MacOS/bossac -e -w -v -b --port=cu.usbmodem11101/Users/gordonanderson/GAACE/Products/MIPS/Arduino/RFmega/build/adafruit.samd.adafruit_itsybitsy_m4/RFmega.ino.bin -R
+Operation should start soon...
+bossac: missing file
+Try 'bossac -h' or 'bossac --help' for more information
